@@ -16,7 +16,30 @@ cafe-website/
 │ └── style.css # Styles
 │── js/
 │ └── script.js # Simple form handling
-│── images/ # Placeholder images
+│── images/ # images
+```
+
+---
+
+## 🚀 Features
+- Responsive static website
+- Multi-page navigation (Home, Menu, About, Contact)
+- Contact form with JavaScript validation
+- Clean modern café-themed UI
+
+---
+
+## 🌐 Deployment on AWS Amplify
+
+### **Step 1 – Push to GitHub**
+- Initialize a Git repo and push code.  
+- Example:  
+
+```bash
+git init
+git add .
+git commit -m "Initial commit - Café Bliss static website"
+git push -u origin main
 ```
 
 ---
