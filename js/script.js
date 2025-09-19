@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
   if (form) {
     form.addEventListener("submit", (e) => {
       e.preventDefault();
-      alert("Thank you for contacting Café Bliss! We'll get back to you soon.");
+      alert("Thank you for contacting Café Amplify! We'll get back to you soon.");
       form.reset();
     });
   }
