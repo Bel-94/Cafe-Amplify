@@ -94,7 +94,7 @@ git push -u origin main
 ## My live site
 **Homepage**
 
-![Home Page](images/livesite.jpg)
+![Home Page](images/livesite2.jpg)
 
 **Menu Page**
 
