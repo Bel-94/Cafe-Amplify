@@ -4,7 +4,7 @@ A simple static website for a fictional café. Built with **HTML, CSS, and JavaS
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 cafe-website/
@@ -21,7 +21,7 @@ cafe-website/
 
 ---
 
-## 🚀 Features
+## Features
 - Responsive static website
 - Multi-page navigation (Home, Menu, About, Contact)
 - Contact form with JavaScript validation
@@ -29,7 +29,7 @@ cafe-website/
 
 ---
 
-## 🌐 Deployment on AWS Amplify
+## Deployment on AWS Amplify
 
 ### **Step 1 – Push to GitHub**
 - Initialize a Git repo and push code.  
@@ -108,5 +108,20 @@ git push -u origin main
 
 ![Contact Us Page](images/contactuspage.jpg)
 
+---
+
+## Tech Stack
+- HTML  
+- CSS  
+- JavaScript  
+- AWS Amplify (Hosting)  
 
 ---
+
+## Author
+**Belinda Ntinyari** – [Medium](https://medium.com/@ntinyaribelinda) | [LinkedIn](https://www.linkedin.com/in/belinda-ntinyari/)
+
+---
+
+## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
