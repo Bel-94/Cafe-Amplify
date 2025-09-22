@@ -88,8 +88,8 @@ git push -u origin main
 ---
 
 ## Step 6 – Live Website
-- Amplify gives you a live URL like:  
-  `https://main.d111wpis6djpx2.amplifyapp.com/`  
+- Amplify gives you a live URL:  
+  `https://main.d22782xas97vha.amplifyapp.com/`  
 
 ## My live site
 **Homepage**
